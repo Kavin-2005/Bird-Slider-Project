@@ -1,4 +1,4 @@
-# 🐦 Animated Bird Slider
+ # 🐦 Animated Bird Slider
 
 Welcome to the **Animated Bird Slider**, a visually engaging and fully responsive image carousel that highlights the elegance of nature's most captivating birds — from majestic eagles to vibrant parrots.
 
@@ -7,7 +7,7 @@ Welcome to the **Animated Bird Slider**, a visually engaging and fully responsiv
 ---
 
 ## 🔥 Live Demo
-👉 [Click here to view the project in action]([http://127.0.0.1:5501/index.html])  
+👉 [Click here to view the project in action]([[http://127.0.0.1:5501/index.html](https://kavin-2005.github.io/Bird-Slider-Project/)])  
 
 ---
 
