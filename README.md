@@ -7,7 +7,7 @@ Welcome to the **Animated Bird Slider**, a visually engaging and fully responsiv
 ---
 
 ## 🔥 Live Demo
-👉 [Click here to view the project in action]([[http://127.0.0.1:5501/index.html](https://kavin-2005.github.io/Bird-Slider-Project/)])  
+👉 [Click here to view the project in action]([http://127.0.0.1:5501/index.html](https://kavin-2005.github.io/Bird-Slider-Project/)])  
 
 ---
 
